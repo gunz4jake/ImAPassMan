@@ -1,5 +1,5 @@
 #+TITLE: ImAPassMan
-#+PROPERTY: header-args :tangle Passman.py
+#+PROPERTY: header-args :tangle ImAPassMan.py
 
 * ImAPassMan is a Password Manager written in Python.
 ** IMPORTS
