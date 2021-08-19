@@ -1,0 +1,19 @@
+#+TITLE: I'm a Passman
+#+PROPERTY: header-args :tangle Passman.py
+
+* I'm a Passman is a Password Manager written in Python.
+** IMPORTS
+#+begin_src python
+
+#+end_src
+** Startup Function
+*** Login Function
+*** Search Function
+*** Decrypt Function
+
+** Encryption Function
+#+begin_src python
+
+#+end_src
+
+** Database Function
