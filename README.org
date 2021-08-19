@@ -1,7 +1,7 @@
-#+TITLE: I'm a Passman
+#+TITLE: ImAPassMan
 #+PROPERTY: header-args :tangle Passman.py
 
-* I'm a Passman is a Password Manager written in Python.
+* ImAPassMan is a Password Manager written in Python.
 ** IMPORTS
 #+begin_src python
 
