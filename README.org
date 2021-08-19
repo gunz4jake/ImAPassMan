@@ -1,19 +1,28 @@
 #+TITLE: ImAPassMan
 #+PROPERTY: header-args :tangle ImAPassMan.py
+* TABLE OF CONTENTS :toc:
+- [[#imapassman-is-a-password-manager-written-in-python][ImAPassMan is a Password Manager written in Python.]]
+- [[#imports][IMPORTS]]
+- [[#startup-function][Startup Function]]
+  - [[#login-function][Login Function]]
+  - [[#search-function][Search Function]]
+  - [[#decrypt-function][Decrypt Function]]
+- [[#encryption-function][Encryption Function]]
+- [[#database-function][Database Function]]
 
 * ImAPassMan is a Password Manager written in Python.
-** IMPORTS
+* IMPORTS
 #+begin_src python
 
 #+end_src
-** Startup Function
-*** Login Function
-*** Search Function
-*** Decrypt Function
+* Startup Function
+** Login Function
+** Search Function
+** Decrypt Function
 
-** Encryption Function
+* Encryption Function
 #+begin_src python
 
 #+end_src
 
-** Database Function
+* Database Function
